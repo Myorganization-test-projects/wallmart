@@ -1,3 +1,6 @@
 iam developingdev branch
 
-just update`
+just update:wq!
+
+second update
+>>>>>>> development
